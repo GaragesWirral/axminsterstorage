@@ -1,5 +1,6 @@
 name = "axminsterstorage"
 compatibility_date = "2024-03-19"
+main = "worker.js"
 
 [site]
 bucket = "."
