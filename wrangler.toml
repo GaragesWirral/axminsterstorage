@@ -4,7 +4,6 @@ main = "worker.js"
 
 [site]
 bucket = "."
-entry-point = "workers-site"
 
 [build]
 command = "" 
