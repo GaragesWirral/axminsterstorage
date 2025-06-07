@@ -4,6 +4,7 @@ main = "worker.js"
 
 [site]
 bucket = "."
+include = ["*.html", "*.png", "*.jpg", "*.js", "*.css"]
 
 [build]
 command = "" 
